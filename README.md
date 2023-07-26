@@ -1,4 +1,10 @@
-### Hi there 👋
+## 👋 Hello!
+
+Welcome to my Git profile! I'm Nikita, an Automation Tester with a passion for quality assurance and test automation. Currently, I'm actively looking for new opportunities in the field of software testing.
+
+### 📄 My CV
+
+You can find my latest CV here.
 
 <!--
 **nkondrakhin/nkondrakhin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
